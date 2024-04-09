@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning [something new you're learning]
 - 🤔 I’m looking for help with finding sites to learn more about Bioinformatics, machine learning and AI
   
-[//]:# (Places you can find me:)
+### Places you can find me:
 
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [https://www.linkedin.com/in/jakub-sudo%C5%82-js060701/](#)
 - Twitter: [Your Twitter](#)
 - Blog: [Your Blog](#)
 - Email: [Your Email](#)
