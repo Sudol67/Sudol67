@@ -12,9 +12,8 @@
   
 ### Places you can find me:
 
-- LinkedIn: [https://www.linkedin.com/in/jakub-sudo%C5%82-js060701/](#)
-- Twitter: [Your Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/jakub-sudol-js060701/ "More about me")
 - Blog: [Your Blog](#)
-- Email: [Your Email](#)
+- Instagram: [Your Email](#)
 
 ---
