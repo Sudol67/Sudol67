@@ -1,6 +1,4 @@
-# Hi,
-
-## I'm Jakub Sudoł
+# Hi, I'm Jakub Sudoł
 
 [//]:# (I'm a Bioinformatics student at Poznan University of Technology)
 
