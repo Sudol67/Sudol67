@@ -1,10 +1,14 @@
 # Hi, I'm Jakub Sudoł
 
+## 🌱 About Me
 
+### Bioinformatics student at Poznan University of Technology
+### Bachelor in Bioinformatics
+### Currently: Master of Science in Bioinformatics
 
-### 🌱 About Me
-
-# I'm a Bioinformatics student at Poznan University of Technology
+## Interests outside of the University
+### Automotive enthusiast
+### Photography, especially film photography
   
 ### Places you can find me:
 
