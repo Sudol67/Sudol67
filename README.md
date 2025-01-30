@@ -11,6 +11,6 @@
   
 ## 📱 Places you can find me:
 - [LinkedIn](https://www.linkedin.com/in/j-sudol/ "More about me here")
-- [Instagram](https://www.instagram.com/jakubsudol/_"More_personal")
+- [Instagram](https://www.instagram.com/jakubsudol/ "More of_private_life")
 
 ---
