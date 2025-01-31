@@ -1,4 +1,4 @@
-# Hi, I'm Jakub Sudoł
+# Hi, I'm Jakub
 
 ## 🌱 About Me
 * Bioinformatics student at Poznan University of Technology <br>
