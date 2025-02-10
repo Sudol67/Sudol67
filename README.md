@@ -12,6 +12,6 @@
   
 ## 📱 Places you can find me:
 - [LinkedIn](https://www.linkedin.com/in/j-sudol/ "More about my career")
-- [Instagram](https://www.instagram.com/jakubsudol/ "In my free time")
+- [Instagram](https://www.instagram.com/jakubsudol/ "My free time")
 
 ---
