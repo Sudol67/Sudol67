@@ -1,16 +1,16 @@
-<h1 align="left"> Hi, I'm Jakub
+# Hi, I'm Jakub
 
-<h2 align="left"> 🌱 About Me
+## 🌱 About Me
 * Bioinformatics student at Poznan University of Technology <br>
 * Bachelor in Bioinformatics <br>
 * Currently: Master of Science in Bioinformatics <br>
 
-<h2 align="left"> ✨ Interests outside of the University
+## ✨ Interests outside of the University
 * Automotive enthusiast <br>
 * Photography, especially film photography <br>
 * 3D printing (new to this) <br>
   
- <h2 align="left">💻 I code with</h2>
+## 💻 I code with</h2>
 
 ###
 
