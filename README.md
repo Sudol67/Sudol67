@@ -1,20 +1,20 @@
 # Hi, I'm Jakub
 
-## 🌱 About Me
+## :seedling: About Me
 * Bioinformatics student at Poznan University of Technology <br>
 * Bachelor in Bioinformatics <br>
 * Currently: Master of Science in Bioinformatics <br>
 
-## Current projects on the way
+## :bulb: Current projects on the way
 * R package for scRNA-seq (focusing on cell type adnotation)
 * Weather and news station connected to Google Calendar (based on RaspberryPi and Waveshare e-ink display)
 
-## ✨ Interests outside of the University
+## :telescope: Interests outside of the University
 * Automotive enthusiast <br>
 * Photography, especially film photography <br>
 * 3D printing (new to this) <br>
   
-## 💻 I code with</h2>
+## :computer: I code with</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-## 📱 Places you can find me
+## :iphone: Places you can find me
 ###
 
 <div align="left">
