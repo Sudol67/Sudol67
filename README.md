@@ -5,6 +5,10 @@
 * Bachelor in Bioinformatics <br>
 * Currently: Master of Science in Bioinformatics <br>
 
+## Current projects on the way
+* R package for scRNA-seq (focusing on cell type adnotation)
+* Weather and news station connected to Google Calendar (based on RaspberryPi and Waveshare e-ink display)
+
 ## ✨ Interests outside of the University
 * Automotive enthusiast <br>
 * Photography, especially film photography <br>
